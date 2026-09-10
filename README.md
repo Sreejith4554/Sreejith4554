@@ -1,6 +1,6 @@
 # Hi, I'm Sreejith Sivakumar 👋
 
-**Technical Project Coordination · Business Operations · Workflow Automation · PMO / Delivery Analytics**
+**Project Coordination · Business Operations · Workflow Automation · PMO / Delivery Analytics**
 
 Berlin-based project and operations professional with an MBA in Project Management and an engineering background. My portfolio focuses on how I structure delivery systems: translating work into traceable Jira items, automating recurring coordination, improving cross-functional workflows, and turning operational data into decision-ready reporting.
 
